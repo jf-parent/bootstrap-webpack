@@ -41,6 +41,7 @@ var styles = [
   "carousel",
 
   "utilities",
+  "responsive-embed",
   "responsive-utilities"
 ];
 
