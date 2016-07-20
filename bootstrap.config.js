@@ -59,6 +59,7 @@ module.exports = {
     "carousel": true,
 
     "utilities": true,
+    "responsive-embed": true,
     "responsive-utilities": true
   }
 };
